@@ -10,4 +10,4 @@ This repository contains a basic Flask web application that allows users to uplo
 - Basic HTML frontend for user interaction.
 
 ## Installation
-**Click the download thing at the top.**
+**Click on the green <>Code thingy and click on download zip.**
